@@ -1,5 +1,5 @@
 
-<h3 align="center">Olá! Meu nome é Gabriel e atualmente estudo ADS e varios cursos relacionados a programação</h3>
+<h3 align="center">Olá! Meu nome é Gabriel e atualmente estudo ADS e varios outros cursos relacionados a programação</h3>
 
 <div align="center">
   <a href="https://github.com/gabrielgcfa"></a>
