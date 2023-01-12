@@ -1,4 +1,6 @@
 
+<h3 align="center">Olá! Meu nome é Gabriel e atualmente estudo ADS e varios cursos relacionados a programação</h3>
+
 <div align="center">
   <a href="https://github.com/gabrielgcfa"></a>
 <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgcfa&layout=compact&langs_count=7&theme=dracula"/>
